@@ -1,0 +1,302 @@
+Patient_ID,Age,Gender,Smoking_Status,Years_Smoking,Cigarettes_Per_Day,Secondhand_Smoke_Exposure,Occupation_Exposure,Air_Pollution_Level,Family_History,Genetic_Markers_Positive,BMI,Physical_Activity_Level,Alcohol_Consumption,Diet_Quality,Region,Income_Level,Education_Level,Access_to_Healthcare,Screening_Frequency,Chronic_Lung_Disease,Lung_Cancer_Stage,Diagnosis_Year,Survival_Status
+P100000,76,Female,Never,6,37,Low,Diesel Fumes,Low,Yes,No,24.6,Moderate,Moderate,Poor,West,Middle,Tertiary,Good,Regularly,No,Stage II,2008,Alive
+P100002,85,Male,Former,47,14,High,Asbestos,Low,Yes,Yes,33.6,High,High,Good,South,High,Tertiary,Average,Regularly,No,Stage II,2007,Deceased
+P100006,46,Female,Current,27,36,Low,Asbestos,High,Yes,No,23.7,Low,High,Good,West,Middle,Primary,Good,Occasionally,Yes,Stage II,2015,Deceased
+P100013,84,Male,Never,42,3,Medium,Asbestos,Low,Yes,No,33.1,High,Moderate,Average,North,High,Tertiary,Average,Regularly,No,Stage IV,2011,Alive
+P100035,42,Female,Former,18,18,Medium,Diesel Fumes,High,No,No,15.7,Moderate,Moderate,Average,South,Low,Primary,Poor,Regularly,No,Stage II,2020,Alive
+P100056,42,Male,Current,41,26,Low,Asbestos,Moderate,No,No,27.9,High,High,Average,West,High,Tertiary,Average,Regularly,No,Stage I,2003,Alive
+P100066,48,Male,Never,36,6,High,Silica,Moderate,No,No,28.7,Moderate,Moderate,Good,South,Middle,Secondary,Good,Regularly,No,Stage I,2009,Alive
+P100079,32,Female,Current,32,26,High,Diesel Fumes,Moderate,Yes,No,33.7,High,Moderate,Poor,South,Low,Tertiary,Poor,Regularly,Yes,Stage II,2012,Alive
+P100081,59,Female,Current,47,23,Medium,Asbestos,Moderate,Yes,No,28.5,Low,Moderate,Good,West,Middle,Secondary,Average,Never,No,Stage III,2023,Alive
+P100091,47,Female,Never,30,21,High,Asbestos,Moderate,No,No,32.1,Moderate,Moderate,Poor,North,Low,Primary,Poor,Never,No,Stage IV,2015,Alive
+P100092,86,Male,Former,20,29,High,Asbestos,Moderate,No,No,33.2,High,Moderate,Good,East,High,Secondary,Poor,Regularly,Yes,Stage II,2013,Alive
+P100094,68,Male,Former,40,35,Medium,Asbestos,High,No,No,26.7,Moderate,Moderate,Good,West,Low,Tertiary,Poor,Never,No,Stage II,2013,Alive
+P100120,69,Male,Current,32,27,Medium,Asbestos,High,Yes,No,20.2,Low,High,Poor,South,Middle,Tertiary,Good,Regularly,No,Stage IV,2010,Alive
+P100124,52,Female,Current,5,17,Low,Diesel Fumes,Low,Yes,No,23.3,Moderate,High,Average,West,High,Secondary,Poor,Never,No,Stage II,2018,Deceased
+P100135,33,Male,Current,9,19,Low,Asbestos,Moderate,Yes,Yes,19.8,Low,Moderate,Average,West,Middle,Secondary,Average,Occasionally,No,Stage II,2003,Alive
+P100151,80,Male,Never,32,26,High,Silica,Low,No,No,27.8,Moderate,High,Average,South,Low,Secondary,Average,Occasionally,No,Stage I,2018,Alive
+P100153,26,Male,Never,2,32,High,Asbestos,Low,Yes,No,18.2,Moderate,Moderate,Average,East,Low,Tertiary,Poor,Occasionally,No,Stage II,2017,Alive
+P100155,78,Female,Former,23,25,Low,Asbestos,Low,No,No,22.4,Low,Moderate,Average,East,Middle,Tertiary,Good,Occasionally,Yes,Stage III,2016,Alive
+P100163,79,Female,Never,32,8,High,Silica,High,No,No,17.2,Low,Moderate,Good,North,Low,Secondary,Average,Occasionally,Yes,Stage II,2003,Deceased
+P100177,44,Female,Never,0,6,High,Asbestos,Moderate,Yes,No,28.3,Low,High,Good,North,Low,Secondary,Poor,Regularly,No,Stage III,2001,Deceased
+P100184,81,Female,Current,19,9,Medium,Diesel Fumes,High,No,Yes,24.9,High,High,Good,South,High,Secondary,Good,Occasionally,Yes,Stage II,2013,Deceased
+P100185,74,Female,Current,15,8,Low,Diesel Fumes,Moderate,Yes,No,17.2,High,Moderate,Good,South,High,Secondary,Poor,Regularly,Yes,Stage III,2018,Alive
+P100189,31,Female,Current,22,16,Low,Asbestos,High,Yes,No,21.8,Moderate,High,Good,North,Middle,Tertiary,Average,Regularly,No,Stage III,2017,Alive
+P100207,60,Male,Current,32,17,Medium,Silica,High,No,No,18.9,Moderate,High,Average,North,Low,Tertiary,Average,Occasionally,No,Stage II,2023,Alive
+P100210,42,Male,Never,8,36,Low,Diesel Fumes,High,No,No,32.4,Moderate,Moderate,Good,North,Middle,Secondary,Poor,Never,No,Stage III,2002,Alive
+P100234,51,Male,Current,18,27,Low,Diesel Fumes,High,No,No,26.4,Low,Moderate,Average,West,Middle,Tertiary,Good,Never,No,Stage I,2011,Deceased
+P100236,54,Female,Current,19,11,Low,Diesel Fumes,Moderate,No,Yes,20.3,Low,High,Good,North,Low,Secondary,Poor,Regularly,No,Stage III,2012,Deceased
+P100239,85,Female,Current,41,36,Low,Diesel Fumes,High,No,No,27.0,Low,Moderate,Good,West,Middle,Secondary,Good,Occasionally,No,Stage IV,2019,Alive
+P100243,59,Female,Current,24,34,Low,Diesel Fumes,Moderate,No,No,16.5,High,High,Average,East,Low,Primary,Good,Never,No,Stage IV,2000,Alive
+P100270,41,Female,Current,6,29,Low,Silica,Low,No,No,31.0,High,High,Good,South,Middle,Secondary,Poor,Occasionally,No,Stage I,2020,Alive
+P100274,72,Female,Current,10,32,High,Silica,Low,No,No,28.2,Low,High,Good,West,Low,Tertiary,Good,Occasionally,No,Stage II,2019,Alive
+P100279,49,Male,Current,21,14,Medium,Silica,High,No,No,25.3,Moderate,Moderate,Poor,South,Low,Secondary,Average,Regularly,No,Stage I,2012,Alive
+P100283,31,Male,Current,13,11,High,Asbestos,Low,Yes,No,19.0,Low,Moderate,Average,West,Middle,Primary,Good,Occasionally,Yes,Stage II,2019,Deceased
+P100293,56,Male,Current,47,0,Medium,Silica,Moderate,No,No,19.3,High,High,Poor,East,High,Primary,Average,Occasionally,No,Stage II,2024,Alive
+P100298,87,Female,Never,8,0,Low,Silica,Moderate,No,No,24.6,Moderate,High,Poor,West,Low,Tertiary,Average,Occasionally,No,Stage II,2021,Deceased
+P100311,84,Female,Never,40,20,High,Silica,High,No,No,25.6,High,Moderate,Poor,North,Low,Tertiary,Average,Occasionally,No,Stage I,2017,Alive
+P100319,37,Male,Current,7,39,Medium,Silica,High,No,Yes,26.8,Low,High,Poor,East,Low,Secondary,Average,Regularly,No,Stage II,2020,Alive
+P100320,54,Male,Current,2,9,Medium,Diesel Fumes,Low,Yes,No,29.1,Low,High,Poor,East,Middle,Primary,Good,Never,No,Stage III,2014,Deceased
+P100325,82,Male,Former,17,16,Medium,Asbestos,Moderate,No,No,23.9,High,Moderate,Poor,North,Middle,Secondary,Average,Regularly,No,Stage I,2000,Alive
+P100333,25,Female,Never,15,8,Low,Silica,Moderate,Yes,No,24.3,Moderate,Moderate,Poor,West,High,Primary,Average,Regularly,Yes,Stage IV,2024,Deceased
+P100356,76,Male,Never,11,29,High,Silica,High,Yes,No,23.2,Moderate,Moderate,Average,South,High,Secondary,Average,Occasionally,No,Stage IV,2007,Alive
+P100361,28,Male,Former,21,34,High,Asbestos,Moderate,No,No,23.8,Moderate,Moderate,Good,North,Low,Primary,Average,Never,No,Stage II,2013,Deceased
+P100377,57,Male,Current,4,4,Low,Diesel Fumes,Moderate,No,No,20.0,Moderate,High,Poor,South,Low,Primary,Good,Never,Yes,Stage III,2017,Alive
+P100380,68,Male,Former,22,12,Low,Diesel Fumes,Moderate,Yes,No,23.5,Low,High,Average,North,Middle,Secondary,Average,Occasionally,No,Stage I,2010,Alive
+P100387,32,Female,Never,9,39,Low,Diesel Fumes,Moderate,Yes,No,38.3,High,High,Good,East,Low,Secondary,Average,Occasionally,No,Stage IV,2004,Alive
+P100396,34,Male,Former,22,6,Low,Diesel Fumes,High,No,No,27.4,Low,High,Poor,East,Low,Primary,Average,Regularly,No,Stage II,2005,Alive
+P100400,60,Male,Former,1,32,Medium,Asbestos,Low,No,No,23.5,Low,High,Good,South,Low,Primary,Poor,Never,No,Stage I,2006,Deceased
+P100401,48,Male,Never,31,7,Low,Diesel Fumes,High,Yes,No,32.0,High,Moderate,Average,West,Low,Secondary,Good,Regularly,No,Stage III,2017,Alive
+P100402,47,Female,Current,49,11,Medium,Silica,Low,Yes,No,17.4,Moderate,High,Average,West,Middle,Tertiary,Good,Occasionally,No,Stage IV,2003,Deceased
+P100416,36,Male,Former,23,23,Medium,Diesel Fumes,Low,No,No,28.0,High,Moderate,Average,North,High,Tertiary,Average,Occasionally,No,Stage I,2019,Alive
+P100425,76,Male,Current,15,5,High,Asbestos,Moderate,No,No,24.8,High,High,Poor,South,High,Tertiary,Good,Regularly,No,Stage II,2022,Alive
+P100469,82,Female,Current,0,6,High,Asbestos,Low,No,No,26.7,High,Moderate,Good,South,Middle,Tertiary,Average,Occasionally,No,Stage III,2021,Deceased
+P100471,85,Female,Current,9,26,High,Silica,Low,No,No,30.9,High,Moderate,Good,North,High,Primary,Good,Regularly,Yes,Stage I,2017,Alive
+P100473,25,Male,Never,30,21,High,Silica,Low,Yes,No,31.9,Moderate,Moderate,Average,North,Middle,Tertiary,Good,Occasionally,No,Stage III,2002,Deceased
+P100491,43,Male,Never,36,24,High,Silica,High,Yes,No,30.9,High,High,Average,North,Middle,Tertiary,Good,Occasionally,No,Stage I,2002,Alive
+P100536,73,Female,Never,7,18,Low,Silica,High,Yes,Yes,21.8,High,Moderate,Average,South,Middle,Primary,Poor,Never,No,Stage III,2010,Alive
+P100541,51,Female,Former,8,8,Low,Asbestos,Low,Yes,No,37.2,Moderate,Moderate,Poor,North,High,Primary,Poor,Occasionally,No,Stage III,2016,Alive
+P100543,57,Female,Current,1,8,Medium,Asbestos,Moderate,No,No,24.8,Low,High,Average,North,Low,Tertiary,Average,Regularly,No,Stage I,2016,Alive
+P100549,27,Male,Current,18,7,Low,Silica,Low,Yes,No,12.2,High,High,Good,South,Middle,Secondary,Average,Never,No,Stage II,2009,Alive
+P100573,81,Female,Never,27,7,High,Diesel Fumes,Moderate,No,No,22.8,High,High,Average,West,High,Tertiary,Poor,Occasionally,No,Stage IV,2024,Alive
+P100582,74,Male,Current,17,8,Medium,Diesel Fumes,Moderate,Yes,No,25.2,Low,Moderate,Poor,East,Middle,Secondary,Average,Regularly,Yes,Stage IV,2022,Alive
+P100610,56,Female,Former,44,26,High,Asbestos,Low,Yes,No,30.0,Low,Moderate,Average,North,Middle,Secondary,Poor,Occasionally,No,Stage III,2017,Alive
+P100617,66,Male,Current,24,25,High,Asbestos,Moderate,No,Yes,21.4,Moderate,High,Good,South,High,Secondary,Average,Regularly,No,Stage I,2001,Alive
+P100620,45,Male,Former,39,14,Medium,Silica,Low,Yes,No,23.2,Moderate,Moderate,Poor,West,Middle,Secondary,Good,Occasionally,No,Stage II,2014,Alive
+P100626,73,Female,Never,21,18,High,Silica,Low,No,No,22.7,Low,Moderate,Average,East,High,Tertiary,Poor,Occasionally,No,Stage III,2017,Alive
+P100627,69,Male,Never,12,28,Medium,Diesel Fumes,High,No,No,21.4,Low,Moderate,Good,North,Low,Secondary,Average,Regularly,No,Stage IV,2016,Alive
+P100631,80,Male,Current,32,1,Medium,Asbestos,Low,No,No,22.3,Low,High,Good,North,Low,Secondary,Good,Regularly,No,Stage II,2014,Alive
+P100632,87,Male,Former,3,14,Low,Asbestos,Moderate,No,No,24.7,Low,Moderate,Average,South,Low,Tertiary,Average,Regularly,No,Stage III,2010,Alive
+P100657,63,Male,Former,29,37,High,Asbestos,Low,Yes,No,21.5,High,Moderate,Poor,West,High,Primary,Good,Occasionally,No,Stage IV,2000,Alive
+P100668,32,Male,Never,30,38,Medium,Asbestos,Low,No,No,21.1,High,Moderate,Average,East,Low,Tertiary,Average,Occasionally,Yes,Stage IV,2017,Alive
+P100684,86,Female,Never,11,12,Medium,Asbestos,Low,Yes,No,34.4,Moderate,Moderate,Average,North,High,Tertiary,Poor,Never,No,Stage III,2024,Alive
+P100687,79,Male,Current,43,27,High,Silica,Low,Yes,No,24.2,Low,Moderate,Average,North,Middle,Tertiary,Average,Regularly,Yes,Stage III,2004,Alive
+P100700,32,Male,Never,36,15,Low,Asbestos,Moderate,Yes,No,38.2,Moderate,High,Average,West,Middle,Secondary,Average,Never,No,Stage III,2000,Alive
+P100708,44,Female,Never,42,17,High,Diesel Fumes,Moderate,No,Yes,33.0,Moderate,Moderate,Average,North,Low,Tertiary,Average,Occasionally,Yes,Stage I,2023,Alive
+P100722,29,Female,Current,14,13,Low,Asbestos,High,Yes,No,26.6,High,High,Average,South,Middle,Primary,Average,Occasionally,Yes,Stage I,2018,Alive
+P100727,37,Male,Former,1,15,Low,Diesel Fumes,Low,Yes,No,18.6,Moderate,Moderate,Good,South,Low,Primary,Average,Regularly,No,Stage III,2022,Alive
+P100749,84,Female,Current,49,15,Medium,Diesel Fumes,Moderate,Yes,No,29.9,Moderate,Moderate,Good,West,High,Primary,Average,Occasionally,No,Stage IV,2007,Alive
+P100750,88,Male,Current,7,27,Medium,Asbestos,Low,No,No,23.2,Moderate,Moderate,Good,West,Middle,Primary,Poor,Regularly,No,Stage II,2018,Alive
+P100754,54,Male,Current,39,35,Low,Diesel Fumes,Moderate,Yes,No,22.2,Low,High,Poor,West,Low,Primary,Average,Never,No,Stage II,2004,Alive
+P100773,41,Female,Former,34,12,High,Diesel Fumes,High,Yes,No,21.7,Low,High,Average,East,Middle,Tertiary,Poor,Never,Yes,Stage I,2017,Alive
+P100778,30,Male,Never,14,27,Low,Diesel Fumes,Low,No,No,27.7,Low,Moderate,Poor,East,Low,Secondary,Average,Never,No,Stage II,2016,Alive
+P100781,66,Male,Former,46,25,Low,Silica,Moderate,No,No,29.5,Low,Moderate,Average,North,Middle,Primary,Good,Never,No,Stage III,2018,Alive
+P100793,57,Female,Never,37,5,Low,Diesel Fumes,Moderate,No,No,28.0,Low,High,Good,South,High,Primary,Poor,Occasionally,No,Stage IV,2010,Alive
+P100811,60,Male,Former,27,33,Low,Diesel Fumes,Moderate,Yes,No,15.8,Low,Moderate,Average,East,High,Secondary,Poor,Never,Yes,Stage I,2000,Alive
+P100813,50,Female,Current,15,33,High,Diesel Fumes,High,Yes,No,33.5,High,High,Good,West,Middle,Secondary,Poor,Occasionally,No,Stage I,2015,Alive
+P100815,51,Male,Current,37,30,Low,Diesel Fumes,Moderate,Yes,No,25.4,Moderate,Moderate,Average,South,Low,Primary,Good,Regularly,Yes,Stage I,2016,Alive
+P100816,44,Male,Former,10,22,Medium,Diesel Fumes,High,Yes,No,28.2,High,High,Average,East,High,Tertiary,Average,Regularly,No,Stage IV,2008,Alive
+P100817,35,Female,Current,2,18,Low,Asbestos,Low,Yes,No,22.0,High,Moderate,Poor,East,Middle,Primary,Poor,Never,Yes,Stage I,2005,Deceased
+P100849,39,Female,Never,35,37,Medium,Diesel Fumes,Low,No,No,30.9,Low,High,Poor,North,Middle,Tertiary,Average,Regularly,No,Stage I,2024,Alive
+P100877,46,Female,Never,18,26,Medium,Silica,High,No,No,19.8,High,Moderate,Average,East,Low,Tertiary,Average,Regularly,Yes,Stage II,2019,Alive
+P100906,28,Female,Never,29,4,High,Asbestos,High,No,No,21.2,High,High,Poor,South,Low,Secondary,Average,Regularly,No,Stage III,2010,Alive
+P100907,25,Female,Former,28,36,Low,Asbestos,Moderate,Yes,No,25.3,Low,High,Poor,West,High,Primary,Good,Never,No,Stage II,2017,Alive
+P100934,79,Female,Current,28,21,Low,Silica,High,No,No,28.9,High,High,Good,North,Middle,Tertiary,Good,Never,No,Stage I,2000,Alive
+P100935,72,Female,Never,34,38,High,Silica,Moderate,No,No,34.2,Low,Moderate,Average,South,Middle,Secondary,Average,Never,No,Stage I,2007,Alive
+P100951,36,Male,Current,15,5,High,Diesel Fumes,Low,Yes,No,29.2,Low,High,Poor,West,Low,Tertiary,Poor,Regularly,No,Stage II,2015,Alive
+P100952,44,Female,Current,3,13,High,Diesel Fumes,High,No,No,27.9,Low,Moderate,Poor,East,Middle,Tertiary,Average,Occasionally,No,Stage II,2017,Alive
+P100960,54,Female,Current,10,31,High,Silica,High,No,No,16.6,High,Moderate,Average,South,Middle,Secondary,Good,Regularly,No,Stage I,2001,Alive
+P100961,83,Female,Current,28,8,High,Silica,Low,Yes,No,36.9,High,Moderate,Average,East,Middle,Secondary,Average,Regularly,No,Stage IV,2020,Alive
+P100974,65,Male,Current,3,19,Low,Asbestos,Low,No,No,28.9,Low,High,Poor,East,High,Secondary,Average,Never,No,Stage II,2012,Alive
+P101000,50,Female,Current,7,21,Medium,Asbestos,High,Yes,No,23.8,Moderate,Moderate,Good,North,High,Secondary,Average,Never,No,Stage III,2010,Alive
+P101002,45,Female,Former,5,1,Low,Asbestos,Moderate,Yes,No,23.0,High,Moderate,Poor,South,High,Tertiary,Average,Regularly,Yes,Stage II,2024,Alive
+P101013,80,Male,Current,23,19,Low,Silica,Low,No,No,24.2,High,High,Average,West,Low,Tertiary,Average,Occasionally,No,Stage IV,2020,Alive
+P101014,57,Female,Never,46,30,Low,Diesel Fumes,Low,No,No,21.2,Low,Moderate,Average,East,High,Tertiary,Poor,Regularly,Yes,Stage IV,2003,Alive
+P101019,64,Male,Former,6,7,Low,Asbestos,High,Yes,No,17.2,High,High,Good,West,High,Primary,Average,Regularly,No,Stage III,2012,Alive
+P101023,67,Female,Current,25,19,Low,Asbestos,Low,Yes,No,20.1,Low,High,Good,East,High,Primary,Average,Regularly,No,Stage IV,2021,Alive
+P101043,32,Male,Current,4,34,High,Silica,High,Yes,No,26.7,High,High,Good,East,Low,Tertiary,Good,Regularly,No,Stage III,2021,Alive
+P101065,42,Male,Current,32,10,Low,Asbestos,High,No,No,18.5,High,High,Average,South,High,Primary,Poor,Never,No,Stage III,2002,Alive
+P101066,83,Female,Never,25,39,Low,Silica,Moderate,No,No,17.7,Moderate,Moderate,Poor,West,Middle,Tertiary,Poor,Occasionally,Yes,Stage II,2005,Alive
+P101073,27,Female,Never,9,6,High,Silica,Low,No,No,24.2,Low,High,Poor,East,Low,Primary,Good,Occasionally,No,Stage IV,2015,Alive
+P101090,37,Female,Former,15,18,Medium,Diesel Fumes,Moderate,Yes,No,22.8,Moderate,High,Good,West,Middle,Tertiary,Poor,Occasionally,Yes,Stage I,2022,Alive
+P101092,42,Male,Never,21,34,High,Silica,High,No,No,23.6,Moderate,Moderate,Good,South,High,Secondary,Good,Occasionally,No,Stage I,2007,Alive
+P101098,86,Female,Current,10,38,Low,Diesel Fumes,Low,Yes,No,22.8,High,Moderate,Poor,West,High,Tertiary,Good,Occasionally,No,Stage III,2000,Alive
+P101101,80,Female,Never,2,22,High,Diesel Fumes,Low,No,No,28.4,High,Moderate,Poor,East,Low,Secondary,Poor,Occasionally,No,Stage III,2004,Deceased
+P101107,73,Male,Former,13,12,Low,Asbestos,High,No,No,22.6,High,Moderate,Poor,South,Low,Tertiary,Good,Occasionally,No,Stage II,2006,Alive
+P101125,67,Male,Never,21,19,Medium,Silica,Low,Yes,No,24.5,High,Moderate,Average,West,High,Secondary,Poor,Regularly,No,Stage III,2001,Alive
+P101132,49,Male,Former,15,18,High,Diesel Fumes,Moderate,No,No,18.9,Moderate,High,Good,East,Middle,Secondary,Average,Never,No,Stage I,2018,Alive
+P101137,87,Male,Current,20,6,Low,Silica,Moderate,Yes,No,25.9,Moderate,High,Poor,North,High,Tertiary,Poor,Occasionally,No,Stage II,2007,Alive
+P101142,30,Female,Never,24,5,High,Asbestos,Low,Yes,No,24.4,High,Moderate,Good,East,Low,Secondary,Good,Regularly,No,Stage IV,2008,Alive
+P101147,73,Male,Never,35,9,High,Diesel Fumes,High,No,No,24.1,Low,High,Poor,East,Low,Tertiary,Good,Regularly,No,Stage I,2005,Alive
+P101159,35,Female,Never,28,21,Medium,Asbestos,Moderate,No,No,25.8,Moderate,High,Poor,West,Low,Tertiary,Average,Regularly,No,Stage II,2024,Alive
+P101175,61,Female,Current,39,29,Low,Silica,High,No,No,35.4,Low,High,Good,North,Low,Primary,Good,Regularly,No,Stage II,2017,Alive
+P101180,69,Female,Current,33,4,Medium,Diesel Fumes,Moderate,Yes,No,14.5,Low,High,Poor,West,Low,Primary,Good,Regularly,No,Stage II,2019,Alive
+P101183,80,Female,Current,42,25,High,Asbestos,High,No,Yes,24.3,High,Moderate,Poor,West,Middle,Tertiary,Average,Never,No,Stage II,2024,Deceased
+P101189,64,Female,Current,30,16,High,Asbestos,Moderate,No,No,23.5,Low,High,Poor,West,Low,Primary,Good,Regularly,No,Stage III,2002,Alive
+P101210,56,Female,Current,32,34,High,Silica,High,Yes,No,23.2,Moderate,High,Poor,South,High,Tertiary,Good,Regularly,No,Stage IV,2014,Alive
+P101218,37,Female,Current,28,14,High,Diesel Fumes,Low,Yes,No,24.1,Low,Moderate,Poor,West,High,Tertiary,Average,Occasionally,No,Stage III,2003,Alive
+P101223,88,Female,Current,16,29,High,Diesel Fumes,Moderate,No,No,16.2,Low,High,Poor,West,Middle,Tertiary,Average,Regularly,No,Stage II,2013,Alive
+P101226,87,Male,Current,5,13,Low,Diesel Fumes,Low,Yes,No,33.1,High,Moderate,Good,North,Middle,Tertiary,Poor,Never,Yes,Stage III,2009,Alive
+P101237,34,Male,Former,28,33,Low,Diesel Fumes,Moderate,Yes,No,23.3,Moderate,Moderate,Average,South,High,Secondary,Poor,Regularly,No,Stage IV,2020,Alive
+P101252,56,Female,Current,45,20,Medium,Asbestos,Low,Yes,No,20.5,Low,Moderate,Average,West,Middle,Primary,Average,Never,Yes,Stage III,2014,Alive
+P101259,37,Male,Current,19,18,High,Silica,Moderate,Yes,No,24.4,Moderate,Moderate,Good,North,Middle,Secondary,Poor,Never,Yes,Stage III,2015,Deceased
+P101272,83,Male,Never,11,33,Low,Diesel Fumes,High,No,No,26.7,Moderate,High,Average,North,High,Tertiary,Average,Never,Yes,Stage III,2002,Alive
+P101276,27,Female,Current,6,25,Medium,Silica,Moderate,No,No,26.5,Low,Moderate,Average,West,High,Tertiary,Good,Never,No,Stage II,2003,Alive
+P101300,88,Female,Current,16,38,High,Diesel Fumes,High,No,No,24.0,Low,Moderate,Poor,South,High,Primary,Good,Regularly,Yes,Stage I,2024,Deceased
+P101306,44,Male,Former,14,37,High,Diesel Fumes,High,No,Yes,27.1,High,Moderate,Average,East,Middle,Secondary,Good,Regularly,Yes,Stage IV,2022,Deceased
+P101313,72,Female,Former,34,20,High,Silica,High,Yes,No,27.7,High,High,Poor,West,Low,Secondary,Average,Never,No,Stage III,2010,Alive
+P101333,70,Female,Current,9,34,High,Diesel Fumes,Moderate,No,Yes,26.2,Low,High,Poor,East,Middle,Secondary,Good,Occasionally,No,Stage I,2021,Alive
+P101334,56,Female,Never,38,20,Medium,Silica,Low,No,No,24.8,High,Moderate,Average,West,Middle,Tertiary,Good,Never,No,Stage II,2001,Alive
+P101360,86,Male,Current,8,38,High,Diesel Fumes,High,No,No,24.5,Low,High,Poor,West,High,Tertiary,Good,Never,No,Stage IV,2022,Alive
+P101382,56,Female,Current,34,29,Medium,Diesel Fumes,High,No,No,23.0,Low,High,Poor,West,High,Tertiary,Good,Never,No,Stage II,2001,Alive
+P101387,61,Male,Current,44,4,High,Diesel Fumes,Low,No,No,26.9,High,High,Average,South,Middle,Secondary,Average,Regularly,No,Stage III,2019,Alive
+P101388,80,Male,Never,38,3,Low,Silica,Moderate,No,Yes,25.4,Low,Moderate,Good,North,Low,Tertiary,Poor,Never,No,Stage IV,2020,Alive
+P101389,83,Female,Current,41,35,Low,Diesel Fumes,Moderate,No,No,16.9,Moderate,Moderate,Good,South,Middle,Primary,Poor,Regularly,No,Stage I,2020,Alive
+P101400,85,Male,Never,15,25,Medium,Silica,High,Yes,No,22.4,Low,High,Poor,North,Low,Secondary,Poor,Regularly,No,Stage II,2005,Alive
+P101403,61,Male,Current,22,15,Medium,Asbestos,High,Yes,No,17.1,Low,Moderate,Good,East,Low,Primary,Average,Regularly,No,Stage IV,2005,Alive
+P101425,32,Female,Never,15,33,Medium,Asbestos,Moderate,Yes,No,27.5,Low,High,Good,West,Low,Tertiary,Poor,Never,No,Stage II,2018,Alive
+P101433,86,Female,Current,5,36,High,Asbestos,High,Yes,No,33.1,Moderate,High,Average,East,Low,Secondary,Poor,Occasionally,No,Stage II,2010,Deceased
+P101447,71,Female,Current,42,25,Medium,Diesel Fumes,Low,No,No,25.5,High,Moderate,Average,West,Middle,Primary,Good,Regularly,No,Stage III,2019,Alive
+P101454,29,Male,Never,32,6,Low,Silica,Moderate,No,No,21.8,High,Moderate,Average,North,Middle,Secondary,Average,Never,No,Stage II,2023,Alive
+P101459,81,Male,Former,43,11,High,Asbestos,Moderate,Yes,No,27.8,Moderate,High,Poor,East,Middle,Tertiary,Average,Occasionally,Yes,Stage III,2024,Alive
+P101470,85,Male,Former,11,21,Medium,Diesel Fumes,High,No,Yes,22.6,Low,Moderate,Good,North,Low,Secondary,Good,Never,No,Stage I,2002,Deceased
+P101476,53,Male,Former,5,23,High,Diesel Fumes,Low,Yes,No,27.2,Moderate,Moderate,Poor,North,Low,Tertiary,Good,Never,No,Stage III,2006,Alive
+P101478,59,Female,Never,23,15,Low,Asbestos,Moderate,No,No,39.5,Moderate,High,Poor,West,Low,Secondary,Average,Occasionally,No,Stage IV,2023,Alive
+P101490,80,Male,Former,27,25,High,Silica,Moderate,No,No,25.4,Moderate,Moderate,Average,East,High,Tertiary,Average,Regularly,Yes,Stage IV,2008,Alive
+P101510,54,Male,Former,38,37,Low,Silica,High,No,No,33.9,Moderate,Moderate,Poor,East,Low,Secondary,Poor,Regularly,No,Stage I,2005,Deceased
+P101553,52,Male,Never,36,14,High,Asbestos,Moderate,Yes,No,25.6,High,Moderate,Poor,South,High,Secondary,Average,Regularly,No,Stage II,2001,Alive
+P101569,39,Male,Current,40,30,Low,Diesel Fumes,High,No,No,24.9,Moderate,High,Average,North,High,Tertiary,Poor,Regularly,No,Stage I,2020,Alive
+P101572,75,Female,Current,4,7,Low,Diesel Fumes,High,Yes,No,25.1,High,Moderate,Average,North,Middle,Secondary,Average,Never,No,Stage II,2022,Alive
+P101575,37,Female,Former,31,16,Low,Diesel Fumes,Moderate,No,No,25.9,Low,High,Poor,North,Low,Secondary,Average,Occasionally,No,Stage I,2003,Deceased
+P101578,76,Female,Never,5,37,High,Silica,Low,Yes,No,27.2,Moderate,Moderate,Average,East,Low,Tertiary,Good,Never,No,Stage IV,2022,Alive
+P101587,42,Male,Never,10,5,High,Diesel Fumes,Low,No,No,25.4,High,High,Good,South,Low,Tertiary,Average,Regularly,Yes,Stage IV,2010,Alive
+P101589,73,Female,Former,24,21,Low,Diesel Fumes,High,Yes,No,25.8,Low,High,Average,North,Low,Secondary,Good,Never,No,Stage I,2006,Alive
+P101595,87,Female,Never,44,7,Medium,Silica,High,Yes,No,15.0,High,Moderate,Good,North,High,Secondary,Good,Never,No,Stage II,2004,Alive
+P101601,60,Male,Never,14,33,High,Diesel Fumes,High,No,No,23.4,Moderate,Moderate,Poor,East,High,Primary,Good,Regularly,No,Stage II,2011,Alive
+P101621,74,Male,Current,23,25,Medium,Asbestos,High,Yes,No,34.3,High,High,Good,South,High,Tertiary,Good,Regularly,Yes,Stage I,2017,Alive
+P101626,42,Female,Current,34,14,Medium,Diesel Fumes,Moderate,Yes,No,22.7,Moderate,Moderate,Average,East,Low,Secondary,Good,Never,No,Stage III,2022,Deceased
+P101635,72,Female,Never,39,15,High,Silica,Low,Yes,No,32.2,High,Moderate,Poor,South,High,Secondary,Good,Occasionally,No,Stage I,2002,Alive
+P101648,42,Male,Current,11,21,High,Silica,Moderate,No,No,23.3,Moderate,High,Good,South,Low,Primary,Average,Occasionally,No,Stage II,2000,Alive
+P101668,84,Female,Former,26,1,High,Asbestos,High,No,No,29.4,Moderate,High,Average,West,Middle,Primary,Good,Occasionally,No,Stage IV,2012,Alive
+P101675,74,Male,Never,13,21,Low,Asbestos,Low,No,No,21.7,High,High,Good,South,High,Tertiary,Good,Regularly,No,Stage IV,2021,Alive
+P101678,27,Female,Former,39,8,High,Silica,Low,Yes,No,20.1,High,High,Good,East,Low,Primary,Average,Regularly,No,Stage II,2013,Alive
+P101687,82,Male,Former,20,27,Low,Asbestos,Low,Yes,No,20.6,Low,Moderate,Poor,North,Middle,Secondary,Good,Regularly,No,Stage IV,2008,Deceased
+P101694,79,Female,Never,14,24,Medium,Asbestos,Low,No,No,26.8,Low,Moderate,Good,North,Low,Tertiary,Poor,Occasionally,Yes,Stage IV,2004,Alive
+P101718,89,Female,Never,14,2,High,Diesel Fumes,Low,No,No,17.4,Moderate,High,Average,South,Low,Secondary,Good,Never,No,Stage III,2015,Alive
+P101720,86,Male,Current,12,16,High,Diesel Fumes,Moderate,Yes,No,18.7,Low,High,Average,East,High,Primary,Good,Occasionally,Yes,Stage II,2024,Alive
+P101741,38,Female,Former,48,31,Low,Asbestos,Low,Yes,No,22.8,Moderate,High,Poor,West,Low,Secondary,Poor,Occasionally,No,Stage III,2004,Deceased
+P101762,37,Male,Former,6,24,Medium,Silica,Moderate,Yes,No,27.6,Low,Moderate,Average,South,Low,Primary,Average,Never,No,Stage III,2003,Alive
+P101782,55,Female,Current,43,9,Medium,Diesel Fumes,Low,No,No,28.8,Moderate,High,Average,West,Middle,Secondary,Poor,Regularly,Yes,Stage II,2008,Alive
+P101788,74,Male,Never,22,25,Medium,Diesel Fumes,High,No,No,15.1,Low,High,Average,East,Middle,Primary,Poor,Occasionally,Yes,Stage III,2013,Alive
+P101802,76,Male,Current,15,1,Low,Diesel Fumes,Moderate,Yes,No,25.1,High,High,Average,North,Low,Primary,Good,Never,No,Stage III,2020,Alive
+P101804,62,Male,Current,29,4,Medium,Silica,High,Yes,No,27.8,High,High,Poor,South,High,Tertiary,Average,Never,No,Stage III,2005,Alive
+P101827,60,Female,Never,16,20,Low,Diesel Fumes,High,No,No,15.6,Moderate,High,Good,East,Low,Secondary,Poor,Never,No,Stage IV,2024,Deceased
+P101843,37,Male,Former,44,10,High,Asbestos,Low,No,No,31.7,Low,High,Average,West,Low,Tertiary,Average,Occasionally,No,Stage II,2004,Alive
+P101854,82,Female,Current,30,10,Low,Silica,Low,Yes,No,25.4,Low,High,Good,East,High,Tertiary,Good,Occasionally,No,Stage III,2002,Alive
+P101860,83,Female,Never,43,21,Medium,Diesel Fumes,Moderate,No,No,25.7,Low,Moderate,Poor,South,Middle,Tertiary,Good,Occasionally,Yes,Stage I,2014,Alive
+P101864,69,Female,Never,40,30,Low,Silica,High,No,Yes,28.1,Low,Moderate,Average,West,Low,Primary,Good,Regularly,No,Stage II,2017,Alive
+P101871,75,Male,Never,1,19,Medium,Diesel Fumes,High,No,No,29.9,Moderate,High,Poor,North,Low,Secondary,Poor,Never,Yes,Stage IV,2016,Alive
+P101878,82,Female,Never,26,37,High,Asbestos,High,Yes,No,28.4,High,High,Poor,South,Middle,Secondary,Poor,Never,Yes,Stage I,2016,Alive
+P101896,73,Female,Former,41,0,Medium,Diesel Fumes,High,Yes,No,17.4,High,High,Good,East,Middle,Primary,Average,Occasionally,No,Stage I,2017,Alive
+P101899,86,Female,Current,32,29,Low,Diesel Fumes,High,No,No,18.6,Low,Moderate,Poor,South,Middle,Primary,Poor,Occasionally,No,Stage IV,2004,Alive
+P101905,37,Male,Current,2,1,Low,Diesel Fumes,Moderate,No,No,40.7,Moderate,Moderate,Average,East,Middle,Tertiary,Average,Never,No,Stage I,2001,Alive
+P101908,40,Female,Never,26,13,Medium,Silica,High,Yes,No,30.5,High,High,Good,South,High,Secondary,Good,Regularly,No,Stage III,2004,Alive
+P101911,35,Male,Current,46,39,High,Asbestos,Low,No,No,16.2,Low,High,Poor,East,Middle,Tertiary,Average,Never,No,Stage I,2011,Alive
+P101915,64,Female,Former,31,4,Medium,Diesel Fumes,High,No,No,26.3,High,High,Poor,East,High,Tertiary,Poor,Never,No,Stage I,2009,Alive
+P101943,26,Female,Former,18,18,Medium,Asbestos,Moderate,No,No,22.9,Moderate,High,Good,East,Middle,Tertiary,Poor,Regularly,No,Stage I,2014,Alive
+P101944,53,Male,Former,5,34,Medium,Silica,Moderate,Yes,No,27.6,Moderate,Moderate,Average,South,Middle,Tertiary,Poor,Regularly,No,Stage II,2004,Alive
+P101945,76,Male,Never,18,5,Medium,Asbestos,High,No,No,24.8,Moderate,High,Poor,North,High,Secondary,Poor,Never,No,Stage I,2018,Alive
+P101952,61,Female,Current,14,15,Low,Silica,Low,Yes,No,23.2,Moderate,High,Good,East,Low,Primary,Poor,Occasionally,No,Stage IV,2011,Deceased
+P101960,54,Female,Current,9,12,Low,Asbestos,Low,Yes,No,19.1,Moderate,Moderate,Good,East,High,Primary,Average,Regularly,Yes,Stage II,2016,Alive
+P101961,63,Male,Never,46,29,Medium,Silica,Moderate,Yes,No,25.1,Low,High,Average,South,Low,Primary,Average,Occasionally,No,Stage III,2020,Alive
+P101966,25,Male,Current,15,9,Low,Diesel Fumes,High,Yes,No,29.7,Moderate,High,Poor,North,Low,Primary,Average,Never,No,Stage III,2016,Deceased
+P101976,65,Male,Former,19,3,Medium,Diesel Fumes,Low,Yes,No,26.7,High,Moderate,Poor,West,Low,Tertiary,Poor,Regularly,No,Stage IV,2021,Alive
+P101985,77,Male,Never,27,7,Low,Silica,High,Yes,No,29.7,High,High,Good,West,High,Primary,Poor,Never,Yes,Stage IV,2012,Alive
+P101990,28,Female,Current,36,6,Low,Diesel Fumes,Low,Yes,No,20.9,Low,High,Good,East,High,Tertiary,Average,Regularly,No,Stage II,2014,Alive
+P101998,45,Male,Current,11,30,Low,Asbestos,High,Yes,No,25.8,High,High,Good,North,Low,Primary,Poor,Occasionally,No,Stage IV,2022,Alive
+P102008,38,Male,Former,7,2,Medium,Diesel Fumes,Low,Yes,No,28.5,High,Moderate,Good,South,High,Secondary,Poor,Regularly,Yes,Stage I,2011,Deceased
+P102011,79,Female,Current,34,31,Medium,Asbestos,Moderate,No,No,35.8,Moderate,High,Good,East,High,Primary,Good,Occasionally,No,Stage IV,2006,Alive
+P102026,82,Male,Former,29,10,Low,Silica,High,Yes,No,24.2,Moderate,Moderate,Average,South,High,Primary,Poor,Occasionally,Yes,Stage IV,2012,Alive
+P102034,42,Female,Never,34,24,Medium,Diesel Fumes,Moderate,Yes,No,26.9,Low,Moderate,Good,West,Low,Primary,Good,Occasionally,Yes,Stage I,2022,Alive
+P102045,71,Female,Current,35,35,Medium,Asbestos,Moderate,Yes,No,28.0,High,High,Good,North,High,Primary,Poor,Never,No,Stage III,2003,Alive
+P102052,75,Female,Never,32,10,Medium,Asbestos,Moderate,No,No,28.7,Moderate,High,Average,South,High,Secondary,Poor,Regularly,No,Stage II,2001,Deceased
+P102059,61,Female,Never,23,21,Medium,Silica,Low,No,No,26.0,Moderate,Moderate,Average,North,High,Primary,Average,Regularly,No,Stage I,2023,Alive
+P102063,29,Male,Former,7,16,High,Diesel Fumes,Low,Yes,No,25.6,Moderate,Moderate,Poor,East,Low,Secondary,Poor,Occasionally,No,Stage II,2018,Alive
+P102065,63,Female,Current,7,35,High,Silica,High,No,Yes,29.8,Moderate,Moderate,Poor,North,Middle,Primary,Good,Regularly,No,Stage III,2017,Alive
+P102078,60,Male,Never,27,3,Low,Diesel Fumes,High,No,No,23.8,High,High,Average,North,Low,Tertiary,Poor,Never,No,Stage III,2009,Alive
+P102081,54,Male,Current,45,24,Low,Diesel Fumes,Low,Yes,No,21.1,Moderate,High,Average,South,Low,Secondary,Poor,Never,No,Stage II,2011,Alive
+P102089,68,Male,Former,46,35,High,Diesel Fumes,Low,No,No,29.6,Moderate,Moderate,Good,West,Low,Tertiary,Good,Regularly,No,Stage I,2017,Alive
+P102128,73,Male,Current,11,1,Medium,Asbestos,Low,Yes,No,31.1,Moderate,Moderate,Average,South,Middle,Secondary,Average,Never,No,Stage III,2021,Alive
+P102157,52,Female,Former,31,32,Medium,Diesel Fumes,Moderate,Yes,No,28.0,High,Moderate,Good,West,Low,Tertiary,Average,Occasionally,No,Stage IV,2007,Alive
+P102158,50,Female,Former,19,17,Medium,Diesel Fumes,High,No,No,29.7,Low,Moderate,Poor,North,Middle,Tertiary,Good,Occasionally,No,Stage IV,2014,Alive
+P102167,47,Male,Former,18,22,High,Asbestos,High,Yes,No,23.3,Low,High,Poor,East,Low,Secondary,Good,Regularly,No,Stage III,2024,Alive
+P102177,60,Male,Current,19,37,Low,Silica,Low,No,Yes,26.4,High,High,Poor,South,Middle,Tertiary,Average,Regularly,No,Stage IV,2013,Alive
+P102186,26,Male,Current,15,26,Medium,Diesel Fumes,Low,Yes,No,26.0,Low,Moderate,Poor,South,High,Secondary,Good,Occasionally,No,Stage IV,2013,Alive
+P102194,32,Female,Never,43,13,High,Silica,High,No,No,27.0,Moderate,Moderate,Poor,West,High,Tertiary,Poor,Never,Yes,Stage IV,2001,Alive
+P102196,72,Female,Former,46,19,Low,Silica,High,Yes,No,25.6,High,Moderate,Average,West,Middle,Tertiary,Poor,Never,No,Stage III,2014,Alive
+P102209,37,Female,Current,39,22,Medium,Diesel Fumes,Low,Yes,No,18.8,Low,High,Good,South,Middle,Primary,Average,Occasionally,No,Stage I,2003,Alive
+P102210,58,Female,Former,22,35,Medium,Diesel Fumes,High,Yes,No,23.4,Low,Moderate,Good,East,Middle,Secondary,Good,Never,No,Stage I,2011,Alive
+P102212,52,Male,Former,9,2,Medium,Asbestos,High,No,No,30.0,Moderate,High,Average,West,Middle,Primary,Poor,Occasionally,No,Stage IV,2009,Alive
+P102213,83,Male,Former,15,33,Low,Asbestos,Moderate,No,No,31.0,High,Moderate,Good,East,Middle,Secondary,Poor,Occasionally,No,Stage I,2010,Alive
+P102241,71,Female,Former,41,27,High,Diesel Fumes,Moderate,No,No,25.5,Low,Moderate,Average,North,Middle,Secondary,Poor,Regularly,No,Stage IV,2008,Deceased
+P102244,47,Male,Former,20,15,High,Diesel Fumes,Low,No,No,30.9,Moderate,High,Average,West,Middle,Tertiary,Good,Regularly,No,Stage I,2008,Alive
+P102245,72,Male,Current,9,9,Low,Asbestos,Low,Yes,Yes,27.8,High,High,Good,South,High,Secondary,Average,Regularly,No,Stage IV,2014,Alive
+P102258,44,Female,Current,18,20,High,Diesel Fumes,Moderate,Yes,No,27.3,Moderate,Moderate,Average,East,Middle,Primary,Average,Occasionally,No,Stage IV,2012,Deceased
+P102264,71,Female,Never,25,0,Low,Silica,Moderate,No,No,23.5,Moderate,High,Poor,East,Middle,Secondary,Average,Occasionally,No,Stage IV,2004,Alive
+P102268,45,Male,Former,10,0,Medium,Asbestos,Moderate,No,No,23.9,Low,High,Poor,East,Middle,Secondary,Good,Regularly,No,Stage III,2005,Alive
+P102295,43,Female,Current,41,20,Low,Asbestos,Moderate,No,No,21.9,Low,Moderate,Poor,East,Low,Secondary,Good,Never,No,Stage III,2010,Alive
+P102318,65,Female,Former,7,14,Low,Asbestos,Moderate,Yes,No,27.5,Low,High,Good,East,High,Secondary,Poor,Occasionally,No,Stage IV,2020,Alive
+P102337,89,Male,Former,25,7,Medium,Silica,High,Yes,No,30.2,Moderate,High,Good,East,Middle,Primary,Poor,Occasionally,No,Stage IV,2020,Alive
+P102378,59,Male,Never,7,30,Medium,Diesel Fumes,High,No,No,22.4,Low,High,Good,West,Low,Tertiary,Average,Occasionally,No,Stage II,2001,Deceased
+P102389,44,Female,Current,22,28,High,Asbestos,High,Yes,No,23.6,High,Moderate,Poor,North,Low,Secondary,Good,Occasionally,No,Stage III,2001,Alive
+P102407,37,Male,Current,3,8,Medium,Asbestos,Moderate,No,No,30.6,Low,Moderate,Average,North,Middle,Tertiary,Poor,Never,No,Stage I,2024,Alive
+P102416,43,Female,Current,30,5,Medium,Asbestos,Low,Yes,No,24.5,High,Moderate,Average,West,Low,Primary,Poor,Regularly,No,Stage II,2002,Alive
+P102431,60,Female,Former,28,18,High,Diesel Fumes,Low,No,No,22.7,Moderate,Moderate,Good,North,High,Tertiary,Poor,Regularly,Yes,Stage II,2002,Alive
+P102444,75,Female,Current,7,26,Low,Asbestos,Low,Yes,No,17.8,Low,High,Average,West,Low,Secondary,Poor,Regularly,Yes,Stage II,2024,Alive
+P102455,65,Female,Current,30,25,Medium,Asbestos,Low,No,No,31.7,Low,High,Average,East,High,Primary,Poor,Never,Yes,Stage I,2002,Alive
+P102469,78,Female,Current,20,6,Medium,Diesel Fumes,Low,Yes,No,31.1,Moderate,High,Good,South,Middle,Tertiary,Good,Regularly,No,Stage III,2022,Alive
+P102471,60,Female,Never,16,1,Low,Silica,Low,No,No,22.1,Low,High,Poor,South,Low,Primary,Poor,Regularly,No,Stage IV,2006,Alive
+P102472,69,Male,Current,39,3,High,Silica,Low,No,No,28.0,High,High,Good,East,Middle,Secondary,Average,Regularly,Yes,Stage IV,2017,Alive
+P102478,68,Male,Never,11,13,Low,Diesel Fumes,High,Yes,No,26.3,Low,Moderate,Poor,East,Low,Primary,Average,Never,No,Stage I,2023,Alive
+P102491,61,Male,Current,37,26,Low,Diesel Fumes,Moderate,Yes,No,16.0,Low,High,Average,North,Low,Secondary,Poor,Occasionally,No,Stage IV,2021,Alive
+P102511,72,Female,Never,3,28,Low,Diesel Fumes,Moderate,No,No,32.8,Low,High,Average,East,High,Secondary,Good,Regularly,No,Stage II,2001,Alive
+P102514,55,Male,Current,41,16,Low,Diesel Fumes,High,Yes,No,34.1,Low,High,Average,North,High,Secondary,Poor,Occasionally,No,Stage III,2013,Alive
+P102533,66,Female,Never,21,2,Low,Silica,Moderate,No,No,22.0,Moderate,High,Good,South,High,Primary,Good,Occasionally,No,Stage II,2001,Alive
+P102551,75,Male,Current,29,3,High,Silica,Moderate,Yes,No,22.4,Moderate,High,Good,South,Low,Secondary,Average,Never,No,Stage I,2012,Alive
+P102552,70,Female,Current,27,21,Low,Asbestos,Low,No,No,23.6,High,Moderate,Average,South,Low,Primary,Poor,Occasionally,No,Stage II,2019,Alive
+P102561,75,Female,Current,13,7,Low,Diesel Fumes,High,Yes,No,24.3,Low,Moderate,Poor,North,High,Secondary,Poor,Occasionally,No,Stage IV,2006,Alive
+P102568,29,Male,Current,22,11,Low,Diesel Fumes,Moderate,Yes,Yes,27.2,Moderate,Moderate,Good,North,Middle,Secondary,Good,Occasionally,No,Stage III,2011,Alive
+P102575,69,Male,Never,27,1,Low,Silica,Moderate,No,Yes,28.6,Low,High,Poor,East,Low,Primary,Poor,Occasionally,No,Stage I,2021,Alive
+P102581,80,Male,Never,1,18,High,Silica,Moderate,No,No,37.3,Moderate,Moderate,Poor,North,High,Secondary,Good,Regularly,No,Stage III,2006,Alive
+P102591,79,Male,Never,42,11,Low,Diesel Fumes,Low,No,No,25.6,Moderate,Moderate,Average,East,High,Secondary,Good,Occasionally,No,Stage IV,2006,Alive
+P102640,39,Male,Never,16,32,Medium,Diesel Fumes,High,Yes,Yes,17.4,Low,Moderate,Good,West,Middle,Tertiary,Poor,Regularly,No,Stage I,2014,Deceased
+P102643,32,Male,Former,5,28,Medium,Silica,Moderate,No,No,19.2,High,High,Poor,North,High,Secondary,Average,Occasionally,No,Stage I,2002,Alive
+P102656,27,Male,Former,23,4,High,Silica,High,No,No,30.6,Moderate,Moderate,Good,East,High,Tertiary,Good,Occasionally,No,Stage I,2005,Alive
+P102662,85,Female,Former,1,23,Medium,Asbestos,High,Yes,Yes,24.9,High,Moderate,Good,West,Low,Secondary,Good,Occasionally,No,Stage II,2008,Deceased
+P102680,41,Male,Never,4,27,High,Silica,High,No,No,29.5,Low,High,Average,West,High,Tertiary,Average,Never,No,Stage I,2010,Alive
+P102684,45,Female,Never,45,30,Low,Asbestos,High,Yes,No,25.5,Moderate,High,Poor,North,Low,Primary,Average,Occasionally,No,Stage III,2011,Alive
+P102686,77,Male,Never,32,38,High,Silica,Low,No,No,18.7,Moderate,High,Poor,North,High,Primary,Poor,Occasionally,Yes,Stage III,2023,Alive
+P102691,79,Male,Former,28,27,Low,Silica,High,Yes,No,31.6,Moderate,Moderate,Good,North,Low,Primary,Average,Regularly,Yes,Stage II,2003,Deceased
+P102705,46,Female,Former,30,6,Medium,Silica,High,No,No,26.1,High,High,Average,West,High,Secondary,Poor,Occasionally,No,Stage III,2012,Deceased
+P102707,87,Male,Current,36,37,Medium,Diesel Fumes,Moderate,Yes,No,22.3,Low,High,Good,West,Low,Primary,Average,Regularly,No,Stage IV,2018,Alive
+P102712,55,Female,Never,41,27,Medium,Asbestos,High,No,No,28.5,Moderate,High,Average,East,High,Primary,Poor,Never,No,Stage III,2003,Deceased
+P102713,58,Male,Current,43,14,High,Silica,Moderate,Yes,No,31.6,Low,Moderate,Good,West,Low,Tertiary,Average,Never,Yes,Stage IV,2006,Deceased
+P102718,62,Female,Never,3,33,Medium,Diesel Fumes,High,Yes,No,23.0,Low,Moderate,Average,East,High,Primary,Average,Occasionally,Yes,Stage I,2017,Alive
+P102736,37,Female,Former,16,14,High,Diesel Fumes,Moderate,No,No,31.0,Moderate,Moderate,Average,South,Low,Primary,Poor,Regularly,No,Stage III,2017,Deceased
+P102737,73,Female,Never,34,35,High,Diesel Fumes,Low,Yes,No,25.8,High,Moderate,Poor,East,High,Secondary,Good,Never,No,Stage III,2012,Deceased
+P102741,41,Male,Never,42,38,Low,Asbestos,Low,Yes,No,20.0,High,High,Average,West,Middle,Secondary,Average,Occasionally,Yes,Stage I,2024,Alive
+P102744,57,Female,Never,44,1,Low,Asbestos,Moderate,Yes,No,22.0,High,Moderate,Poor,East,Low,Primary,Poor,Regularly,No,Stage II,2022,Alive
+P102762,41,Female,Never,47,16,Low,Diesel Fumes,Low,No,No,18.9,Low,Moderate,Average,East,Low,Secondary,Poor,Never,No,Stage I,2003,Deceased
+P102776,80,Female,Never,0,35,Medium,Asbestos,Low,Yes,No,24.2,High,High,Average,South,Middle,Primary,Poor,Never,Yes,Stage II,2022,Alive
+P102788,52,Female,Current,45,38,Low,Silica,High,No,No,19.7,Low,High,Average,South,Middle,Secondary,Average,Never,No,Stage III,2007,Alive
+P102807,38,Female,Never,4,14,High,Diesel Fumes,Low,Yes,No,29.4,Moderate,Moderate,Poor,South,High,Tertiary,Good,Occasionally,No,Stage I,2002,Alive
+P102819,84,Male,Former,18,34,Medium,Asbestos,Low,No,No,30.6,High,Moderate,Poor,East,High,Primary,Average,Regularly,No,Stage IV,2019,Alive
+P102840,36,Female,Former,41,17,Low,Silica,Low,No,No,25.4,Low,Moderate,Good,North,High,Primary,Poor,Occasionally,No,Stage I,2016,Alive
+P102843,31,Male,Never,19,5,High,Asbestos,High,No,No,25.6,Moderate,High,Average,East,Low,Secondary,Poor,Occasionally,No,Stage III,2016,Alive
+P102847,69,Male,Current,2,33,Low,Silica,Moderate,Yes,No,28.3,Low,Moderate,Average,South,Middle,Secondary,Poor,Never,Yes,Stage II,2015,Alive
+P102858,74,Female,Current,43,20,Medium,Silica,Moderate,No,No,31.5,Moderate,Moderate,Poor,North,High,Secondary,Poor,Occasionally,No,Stage IV,2015,Alive
+P102865,81,Female,Former,21,31,High,Diesel Fumes,High,No,No,28.6,High,High,Average,South,High,Tertiary,Average,Occasionally,No,Stage IV,2008,Alive
+P102881,55,Male,Former,28,12,High,Diesel Fumes,High,Yes,No,27.9,Moderate,High,Poor,South,High,Tertiary,Average,Occasionally,Yes,Stage II,2021,Alive
+P102885,76,Male,Former,19,31,Medium,Asbestos,Low,Yes,Yes,27.5,High,High,Poor,South,Middle,Tertiary,Average,Never,No,Stage IV,2007,Alive
+P102912,80,Male,Former,13,9,Medium,Asbestos,High,No,Yes,22.2,Moderate,Moderate,Good,North,High,Tertiary,Poor,Occasionally,No,Stage III,2012,Alive
+P102947,37,Male,Never,4,30,Low,Silica,Moderate,Yes,No,23.8,Moderate,High,Average,South,High,Primary,Poor,Regularly,No,Stage IV,2018,Deceased
+P102951,78,Male,Current,47,20,Medium,Diesel Fumes,Moderate,Yes,No,22.3,Low,Moderate,Good,North,Middle,Primary,Poor,Occasionally,No,Stage I,2022,Alive
+P102954,25,Male,Former,32,37,Medium,Diesel Fumes,Low,No,No,16.9,Moderate,High,Poor,North,Low,Tertiary,Poor,Occasionally,No,Stage III,2015,Alive
+P102957,59,Male,Former,30,38,Medium,Diesel Fumes,Low,Yes,No,19.9,High,High,Poor,East,Middle,Primary,Poor,Regularly,No,Stage I,2007,Alive
+P102958,41,Male,Former,20,25,Medium,Asbestos,Moderate,Yes,No,28.4,Low,High,Average,South,Low,Primary,Average,Regularly,No,Stage I,2018,Alive
+P102966,44,Female,Current,11,8,Low,Asbestos,Moderate,No,No,21.4,Low,High,Average,East,Middle,Primary,Average,Occasionally,No,Stage II,2006,Alive
+P102973,46,Male,Former,37,22,High,Asbestos,High,Yes,No,19.9,Low,Moderate,Average,West,Low,Tertiary,Average,Occasionally,No,Stage II,2013,Alive
+P102985,29,Female,Never,17,12,Medium,Diesel Fumes,Moderate,No,No,32.0,High,Moderate,Average,North,Middle,Secondary,Poor,Regularly,Yes,Stage III,2008,Alive
+P102989,39,Male,Former,1,32,High,Asbestos,Moderate,No,No,25.5,Moderate,Moderate,Poor,West,High,Primary,Poor,Never,No,Stage IV,2014,Deceased
+P102997,25,Male,Never,6,33,High,Silica,High,Yes,Yes,18.2,High,High,Poor,East,Low,Secondary,Poor,Never,No,Stage IV,2009,Alive
+P102999,51,Male,Never,13,12,High,Silica,Moderate,Yes,No,18.4,High,Moderate,Average,South,High,Tertiary,Average,Never,No,Stage III,2015,Alive

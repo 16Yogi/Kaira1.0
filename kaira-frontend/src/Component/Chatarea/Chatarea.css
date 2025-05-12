@@ -1,0 +1,162 @@
+#chat-cf #camera {
+  height: 200px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: ghostwhite;
+}
+#chat-cf .history {
+  height: 300px;
+  width: 100%;
+  border-radius: 5px;
+  overflow: scroll;
+  background-color: whitesmoke;
+}
+#chat-cf .history ::-webkit-scrollbar {
+  width: 20%;
+  background-color: transparent;
+}
+::-webkit-scrollbar {
+  height: auto;
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+}
+#chat-cf .history .his-item {
+  margin: 5px 0;
+}
+#chat-cf .history .his-item p {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 5px 5px;
+  border-radius: 5px;
+  background-color: white;
+}
+#chat-cf .history .his-item p i {
+  margin-left: 10px;
+  font-size: 10px;
+  font-weight: 700;
+  background-color: rebeccapurple;
+}
+
+#chat-cf #chat-area .chatshow {
+  height: 450px;
+  width: 100%;
+  overflow: scroll;
+  border-radius: 5px;
+  background-color: ghostwhite;
+}
+#chat-cf #chat-area .chatshow #qna {
+  height: auto;
+  width: auto;
+  text-align: right;
+  font-weight: 700;
+  border-radius: 5px;
+}
+#chat-cf #chat-area .chatshow #ans {
+  border-radius: 5px;
+  background-color: white;
+}
+#chat-cf #chat-area .chatshow #ans i {
+  cursor: pointer;
+}
+#chat-cf #chat-area .chatshow .icons{
+  /* background-color: aqua; */
+}
+#chat-cf #chat-area .prompt {
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  background-color: ghostwhite;
+}
+#chat-cf #chat-area .prompt input {
+  height: auto;
+  width: 85%;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+  background-color: transparent;
+}
+#chat-cf #chat-area .prompt i {
+  padding: 10px;
+  margin: 0 6px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+  background-color: white;
+}
+#chat-cf #chat-area .tools span {
+  padding: 6px 10px;
+  margin: 0 8px;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+#chat-cf #chat-area .tools span i {
+  margin: 0 4px;
+}
+#webcam-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden; /* Ensures the webcam fits within the box */
+  border-radius: 10px; /* Optional: Adds rounded corners */
+  border: 2px solid #ccc; /* Optional: Adds a border */
+}
+
+#webcam-container video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures the video fills the container properly */
+}
+button{
+    outline: none;
+    border: none;
+    display: inline;
+    background-color: transparent;
+}
+
+
+/* General message wrapper spacing */
+.message-wrapper {
+  /* margin-bottom: 5px; */
+}
+
+/* Text bubble styles */
+.message-text {
+  padding: 10px 15px;
+  border-radius: 4px;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
+/* User messages */
+.user-bg {
+  /* background-color: white; */
+  /* background-color: #d1ecf1; */
+  font-weight: 600;
+  color: #4d4d4d;
+  align-self: flex-end;
+  /* box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px; */
+}
+
+/* AI messages */
+.ai-bg {
+  /* background-color: #f8d7da;  */
+  /* color: #721c24; */
+  /* margin-left: 20px; */
+  background-color: rgba(139, 226, 248, 0.11);
+  align-self: flex-start;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+
